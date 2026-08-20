@@ -12,7 +12,7 @@
 - 后端: FastAPI + SQLAlchemy + APScheduler
 - 前端: Vue3 + TypeScript + Element Plus + Pinia
 - 数据库: SQLite `data/fund_quant.db`
-- 登录: `songtaoluo` / `admin123`
+- 登录: `admin` / `admin123`
 
 ## Dependency Graph
 
